@@ -1,5 +1,7 @@
 # my-music-clip-ns18
 
+screen.png
+
 ## Building
 
 ### Ubuntu
@@ -14,3 +16,4 @@ $ ./build_simple.sh
 $ ./my_clip_ns18
 ```
 
+![Alt text](/screenshot.jpg?raw=true "Main Screen")
